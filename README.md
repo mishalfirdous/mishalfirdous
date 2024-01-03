@@ -3,8 +3,6 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishalfirdous&label=Profile%20views&color=0e75b6&style=flat" alt="mishalfirdous" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishalfirdous" alt="mishalfirdous" /></a> </p>
-
 - 🔭 I’m currently working on **Talent-Pool**
 
 - 🌱 I’m currently learning **JavaScript , React**
@@ -13,6 +11,7 @@
 
 - 📫 How to reach me **mishaldhillo734@gmail.com**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishalfirdous" alt="mishalfirdous" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mishal-firdous-b99a0a131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishal-firdous-b99a0a131" height="30" width="40" /></a>
